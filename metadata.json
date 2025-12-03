@@ -1,0 +1,5 @@
+{
+  "name": "TSP Donor Management System",
+  "description": "A centralized donor management hub for The Sandwich Project to track donations, visualize impact, and draft communications using AI.",
+  "requestFramePermissions": []
+}
